@@ -9,13 +9,13 @@
 Please find a task description in the seperate handout.
 
 Good luck :four_leaf_clover:
-- [ ] Task 1
-- [ ] Task 2
-- [ ] Task 3
-- [ ] Task 4
-- [ ] Task 5
-- [ ] Task 6
-- [ ] Task 7
-- [ ] Task 8
-- [ ] Task 9
-- [ ] Task 10
+- [X] Task 1
+- [X] Task 2
+- [X] Task 3
+- [X] Task 4
+- [X] Task 5
+- [X] Task 6
+- [X] Task 7
+- [X] Task 8
+- [X] Task 9
+- [X] Task 10
